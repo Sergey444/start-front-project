@@ -1,0 +1,19 @@
+h1 {
+    color: $color-red;
+}
+
+h2 {
+    color: $color-green;
+}
+
+h3 {
+    color: $color-blue;
+}
+
+.mg-bottom50 {
+    margin-bottom: 50px;
+    display: flex;
+    flex-wrap: wrap;
+
+    transform: translateX(100px);
+}
